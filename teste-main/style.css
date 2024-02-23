@@ -1,0 +1,19 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+  
+}
+
+ul {
+display:block;
+justify-content: none;
+align-items: center;
+padding: 30px;
+} 
+
+
+h1 {
+ color: blueviolet;
+}
